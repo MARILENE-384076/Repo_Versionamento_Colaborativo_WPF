@@ -76,7 +76,7 @@ Cada aluno deverá implementar **uma** das funcionalidades abaixo, seguindo a nu
 |   Pedro Moura   | 3    | Implementação de funcionalidade para duplicar tarefa       |    Ok    |
 |  Luna   | 4    | Implementação de funcionalidade de contador de tarefas       |    Ok    |
 |  Otavio   | 5    | Implementação de validaçao de adicionar tarefas vazias     |    Ok    |
-
+| Marilene | 6 |Implementação da funcionalidade permitir mover tarefa para cima (up) | Ok |
 
 
 ---
