@@ -54,7 +54,7 @@ Cada aluno deverá implementar **uma** das funcionalidades abaixo, seguindo a nu
 5. Adicionar validação para impedir tarefas vazias
 6. Permitir mover tarefa para cima
 7. Permitir mover tarefa para baixo
-8. Marcar tarefas concluídas com cor verde
+8. Marcar tarefas concluídas com check
 9. Exportar lista de tarefas para arquivo TXT
 10. Importar lista de tarefas de arquivo TXT
 11. Criar função de pesquisa (filtro)
@@ -73,11 +73,26 @@ Cada aluno deverá implementar **uma** das funcionalidades abaixo, seguindo a nu
 |-------|----|----------------|--------|
 |Danilo | 1   |      Implementação de funcionalidade de limpar lista          |   Ok     |
 |Diulie      |  2  |  Implementação de funcionalidade de editar tarefa               |    Ok     |
-|   Pedro Moura   | 3    | Implementação de funcionalidade para duplicar tarefa       |    Ok    |
+|Pedro Moura   | 3    | Implementação de funcionalidade para duplicar tarefa       |    Ok    |
 |  Luna   | 4    | Implementação de funcionalidade de contador de tarefas       |    Ok    |
 |  Otavio   | 5    | Implementação de validaçao de adicionar tarefas vazias     |    Ok    |
 | Marilene | 6 |Implementação da funcionalidade permitir mover tarefa para cima (up) | Ok |
 | Luis Ivan | 7 |Implementação da funcionalidade permitir mover tarefa para baixo (Down) | Ok |
+| Maycon | 8 |Implementação da funcionalidade de marcar tarefa como concluida com Check | Ok |
+| Yhan | 9 |Implementação da funcionalidade de  Exportar lista de tarefas para arquivo TXT | Ok |
+| Yhan | 10 |Implementação da funcionalidade de Importar lista de tarefas de arquivo TXT | Ok |
+| Kaio | 11 |Implementação da funcionalidade de pesquisar na lista de tarefas | Ok |
+| Nicolas | 12 |Implementação da funcionalidade de atribuir categorias as tarefas | Ok |
+| Bruno | 13 |Implementação ebibição de data e hora ao lado da tarefa| Ok |
+| Alice | 14 |Implementação do botão do modo escuro e claro | Ok |
+| Erick | 15 |Implementação do botão de ordenar A - Z| Ok |
+| Miguel | 16 |Implementação do botão de ordenar Z - A| Ok |
+| Lucas | 17 |Implementação caixa de confirmação de excluir tarefa| Ok |
 
 
 ---
+
+
+
+
+

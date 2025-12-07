@@ -1,0 +1,22 @@
+@startuml
+class MainWindow <<partial>> {
+    - descricao : string
+    - i : int
+    + MainWindow()
+    - Adicionar_Click(sender:object, e:RoutedEventArgs) : void
+    - Limpar_lista_Click(sender:object, e:RoutedEventArgs) : void
+    - AdicionarTarefas() : void
+    - Editartarefa_OnClick(sender:object, e:RoutedEventArgs) : void
+    - BtnDuplicar(sender:object, e:RoutedEventArgs) : void
+    - ContadorTarefa() : void
+    - BtnMoverTarefaUp_Click(sender:object, e:RoutedEventArgs) : void
+    - BtnMoverTarefaDown_Click(sender:object, e:RoutedEventArgs) : void
+    - BtnConcluida_OnClick(sender:object, e:RoutedEventArgs) : void
+    - BtnExportarTxt_Click(sender:object, e:RoutedEventArgs) : void
+    - BtnImportarTxt_Click(sender:object, e:RoutedEventArgs) : void
+}
+class "List`1"<T> {
+}
+Window <|-- MainWindow
+MainWindow o-> "listaTarefas<String>" "List`1"
+@enduml
